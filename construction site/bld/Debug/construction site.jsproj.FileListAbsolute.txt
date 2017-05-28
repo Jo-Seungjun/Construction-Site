@@ -1,0 +1,16 @@
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bin\Debug\ReverseMap\resources.pri
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bin\Debug\AppxManifest.xml
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bin\Debug\construction site.build.appxrecipe
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\ResourceHandlingTask.state
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\priconfig.xml
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\priconfig.xml.intermediate
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\layout.resfiles
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\layout.resfiles.intermediate
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\resources.resfiles
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\resources.resfiles.intermediate
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\pri.resfiles
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\pri.resfiles.intermediate
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\qualifiers.txt
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\qualifiers.txt.intermediate
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\paemi_w\OneDrive\Documents\Visual Studio 2015\Projects\construction site\construction site\bld\Debug\ProjectArchitectures.txt
